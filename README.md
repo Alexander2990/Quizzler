@@ -28,7 +28,7 @@ Learn the holy grail of mobile design patterns: the Model View Controller (MVC) 
 
 ### Моя цель
 
-Изучить святой Грааль шаблонов мобильного дизайна: шаблон Model View Controller (MVC)
+Изучить святой Грааль mobile design patterns: шаблон Model View Controller (MVC)
 
 ### Чему я научился:
 
