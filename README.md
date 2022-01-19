@@ -42,5 +42,4 @@ Learn the holy grail of mobile design patterns: the Model View Controller (MVC) 
 * Узнал об Объектно-Ориентированном Программировании.
 * Как провести рефакторинг и организовать код.
 
-<img src="https://user-images.githubusercontent.com/64682381/150153270-d9ffd9a5-61a5-4b38-92fa-dd7f0e73b00e.png" width="200">
-<img src="https://user-images.githubusercontent.com/64682381/150153300-eb8a2559-3573-4ca5-9d8c-0c2e0a99504f.png" width="200">
+<img src="https://user-images.githubusercontent.com/64682381/150153270-d9ffd9a5-61a5-4b38-92fa-dd7f0e73b00e.png" width="200"> <img src="https://user-images.githubusercontent.com/64682381/150153300-eb8a2559-3573-4ca5-9d8c-0c2e0a99504f.png" width="200">
